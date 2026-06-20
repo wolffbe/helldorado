@@ -19,26 +19,3 @@ launch it automatically**.
    borderless fullscreen at your resolution.
 
 *(To undo: delete the fix's `Helldorado.exe` and rename `HelldoradoOrig.exe` back to `Helldorado.exe`.)*
-
----
-
-# Helldorado — Fix (Deutsch)
-
-Ein Ersatz für `Helldorado.exe`, der **Helldorado** (2007) auf modernem **Windows 10 & 11** lauffähig macht.
-
-Er behebt den Fehler **"Unable to initialize video mode / Could not set screen mode"**: Das Spiel will in
-den exklusiven Vollbildmodus wechseln, den moderne Grafikkarten ablehnen. Dieser Fix führt das Spiel **im
-Fenster mit deiner Bildschirmauflösung** aus und zieht es **randlos auf Vollbild** — Vollbild-Optik ohne
-den fehlschlagenden Moduswechsel. Da er selbst `Helldorado.exe` heißt, starten **GOG Galaxy / Steam und
-deine vorhandenen Verknüpfungen** ihn automatisch.
-
-## Installation
-
-1. Öffne deinen **Helldorado-Spielordner** (dort, wo `Helldorado.exe` liegt).
-2. **Benenne** die originale `Helldorado.exe` in **`HelldoradoOrig.exe`** um.
-3. Lade **`Helldorado.exe`** von der [**Releases**](../../releases)-Seite herunter und lege sie in den Ordner.
-   - Falls beim Start ein blaues Windows-Fenster erscheint: **Weitere Informationen → Trotzdem ausführen**.
-4. Starte das Spiel wie gewohnt (GOG/Steam-Play, Desktop-Verknüpfung oder Doppelklick) — es öffnet nun
-   randlos im Vollbild mit deiner Auflösung.
-
-*(Rückgängig machen: die `Helldorado.exe` des Fixes löschen und `HelldoradoOrig.exe` zurück in `Helldorado.exe` umbenennen.)*
